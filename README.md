@@ -14,7 +14,7 @@
 Passionate about building web applications and exploring data-driven technologies.
 </p>
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -32,7 +32,7 @@ Passionate about building web applications and exploring data-driven technologie
 </a>
 </p>
 
----
+
 
 # 💻 Tech Stack
 
@@ -56,7 +56,7 @@ Passionate about building web applications and exploring data-driven technologie
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
----
+
 ## 📂 Featured Projects
 <section id="data-project">
 <h2>Financial Operations Analytics</h2>
@@ -98,7 +98,7 @@ View Project on GitHub
 </a>
 
 </section>
----
+
 
 ## 📜 Certifications
 
