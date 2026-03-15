@@ -108,8 +108,7 @@ View Project on GitHub
 | Data Analytics Course                            | SkillSetMaster | 2026    |
 | Data Science Job Simulation                      | Forage         | 2026    |
 | Python Bootcamp: Learn Python from Scratch       | CodeWithHarry  | 2025    |
-
-- 
+ 
 ---
 
 
