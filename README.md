@@ -17,7 +17,13 @@ Passionate about building web applications and exploring data-driven technologie
 
 
 ## 🌐 Connect With Me
+<p align="center">
 
+<a href="ResumeUpload.pdf">
+<img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+<!-- LinkedIn button -->
 <p align="center">
 <a href="https://www.linkedin.com/in/gunjan-nagpal-796217306/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
