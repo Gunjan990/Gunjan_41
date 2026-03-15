@@ -109,19 +109,19 @@ View Project on GitHub
 | Data Science Job Simulation                      | Forage         | 2026    |
 | Python Bootcamp: Learn Python from Scratch       | CodeWithHarry  | 2025    |
 
-🏆 Achievements & Leadership
+## 🏆 Achievements
 
-🥈 1st Runner Up – QueryXplode (C-Googly) | 2025
+| Achievement      | Event                       |
+| ---------------- | --------------------------- |
+| 🥈 1st Runner Up | QueryXplode (C-Googly) 2025 |
+| 🎤 Participant   | Bid to Win Competition      |
+| 💻 Participant   | Code Carnival               |
+| 👩‍🏫 Leadership | Class Representative (CR)   |
+| 📢 Coordinator   | IT Seminar And Research Paper Competition   |
 
-🎤 Participant – Bid to Win Competition
 
-💻 Participant – Code Carnival
 
-👩‍🏫 Class Representative (CR Point)
-Represented the class and coordinated communication between students and faculty.
 
-📢 Coordinator – IT Seminar
-Helped organize and manage seminar activities.
 
 
 
