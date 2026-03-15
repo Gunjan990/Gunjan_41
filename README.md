@@ -100,9 +100,15 @@ View Project on GitHub
 </section>
 ---
 
-# 📜 Certifications
-- 🧠 Data Science Job Simulation – Forage   
-- 🐍 Python Bootcamp: Learn Python from Scratch – CodeWithHarry
+
+## 📜 Certifications
+
+* 📊 [Introduction to Data Analytics – Simplilearn](certificates/simplilearn-data-analytics.pdf)
+* 📊 [Introduction to Applied Data Science with Python – Simplilearn](certificates/applied-data-science-python.pdf)
+* 📊 [Data Analytics Course – SkillSetMaster](certificates/skillsetmaster-data-analytics.pdf)
+* 🧠 [Data Science Job Simulation – Forage](certificates/forage-data-science.pdf)
+* 🐍 [Python Bootcamp: Learn Python from Scratch](certificates/python-bootcamp.pdf)
+
 - 
 
 ---
