@@ -107,17 +107,6 @@ View Project on GitHub
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gunjan990&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjan990&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Gunjan990&color=blueviolet&style=for-the-badge"/>
