@@ -77,6 +77,27 @@ View Project on GitHub
 </a>
 
 </section>
+<section id="flauntwear-project">
+<h2>Flauntwear – Fashion E-Commerce Website</h2>
+
+<p>
+Flauntwear is a fashion e-commerce website developed to showcase women's fashion products.
+The project includes multiple pages such as Home, Shop, and Contact with a clean layout
+and organized product display.
+</p>
+
+<p><b>Technologies Used:</b> HTML, CSS</p>
+
+<p>
+<b>Features:</b> Product listing, navigation menu, styled product cards,
+and responsive design for better user experience.
+</p>
+
+<a href="https://github.com/Gunjan990/Flauntwear" target="_blank">
+View Project on GitHub
+</a>
+
+</section>
 
 ## 🏆 GitHub Trophies
 
