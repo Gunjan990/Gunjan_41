@@ -100,8 +100,6 @@ View Project on GitHub
 </section>
 ---
 
-
-## 📜 Certifications
 ## 📜 Certifications
 
 | 🎓 Certificate                                   | 🏫 Platform    | 📅 Year |
@@ -111,9 +109,7 @@ View Project on GitHub
 | Data Science Job Simulation                      | Forage         | 2026    |
 | Python Bootcamp: Learn Python from Scratch       | CodeWithHarry  | 2025    |
 
-
 - 
-
 ---
 
 
