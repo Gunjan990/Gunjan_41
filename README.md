@@ -102,12 +102,15 @@ View Project on GitHub
 
 
 ## 📜 Certifications
+## 📜 Certifications
 
-* 📊 [Introduction to Data Analytics – Simplilearn](certificates/simplilearn-data-analytics.pdf)
-* 📊 [Introduction to Applied Data Science with Python – Simplilearn](certificates/applied-data-science-python.pdf)
-* 📊 [Data Analytics Course – SkillSetMaster](certificates/skillsetmaster-data-analytics.pdf)
-* 🧠 [Data Science Job Simulation – Forage](certificates/forage-data-science.pdf)
-* 🐍 [Python Bootcamp: Learn Python from Scratch](certificates/python-bootcamp.pdf)
+| 🎓 Certificate                                   | 🏫 Platform    | 📅 Year |
+| ------------------------------------------------ | -------------- | ------- |
+| Introduction to Data Analytics                   | Simplilearn    | 2026    |
+| Data Analytics Course                            | SkillSetMaster | 2026    |
+| Data Science Job Simulation                      | Forage         | 2026    |
+| Python Bootcamp: Learn Python from Scratch       | CodeWithHarry  | 2025    |
+
 
 - 
 
