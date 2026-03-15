@@ -98,7 +98,15 @@ View Project on GitHub
 </a>
 
 </section>
+---
+
+# 📜 Certifications
+- 🧠 Data Science Job Simulation – Forage   
+- 🐍 Python Bootcamp: Learn Python from Scratch – CodeWithHarry
+- 
+
+---
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
