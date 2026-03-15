@@ -99,19 +99,6 @@ View Project on GitHub
 
 </section>
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Gunjan990&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Gunjan990&color=blueviolet&style=for-the-badge"/>
-</p>
----
-[![](https://visitcount.itsvg.in/api?id=Gunjan990&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
