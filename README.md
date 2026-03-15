@@ -57,6 +57,26 @@ Passionate about building web applications and exploring data-driven technologie
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
+## 📂 Featured Projects
+<section id="data-project">
+<h2>Financial Operations Analytics</h2>
+
+<p>
+This project analyzes financial and customer data to identify at-risk customers
+using data analytics techniques.
+</p>
+
+<p><b>Tools Used:</b> Python, Pandas, NumPy, Matplotlib</p>
+
+<p>
+<b>Dataset:</b> Customer financial dataset used to identify risk patterns.
+</p>
+
+<a href="https://github.com/Gunjan990/financial-operations-analytics" target="_blank">
+View Project on GitHub
+</a>
+
+</section>
 
 ## 🏆 GitHub Trophies
 
